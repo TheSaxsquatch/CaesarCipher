@@ -10,6 +10,7 @@ positions down the alphabet. For example with a shift of 1, A would be replaced 
 as well as a number value to be stored as a shift key for encoding. The arithmetic for the cipher can start by transferring the leters into numbers 0 - 25. 
 
 For this code, the following formulas will be assumed:
+
 ![quicklatex com-dca1f01b6a20a73c189d48228c230009_l3](https://user-images.githubusercontent.com/57579907/211665151-0883ed21-85b8-4635-aa84-b5b71abb5e13.svg)
 (Encryption Phase with shift n)
 
